@@ -9,6 +9,7 @@ Tool features :
 - The names of the available users are saved in one file and the banned ones in another file
 - Very accurate, it checks the user name accurately even if the proxy is not working
 - You can check your usernames file through the tool, and you can also make the tool do an automatic check that creates usernames and checks them, you just have to specify the number of characters of the username that you want to check
+- The tool sends the usernames available on your Telegram account (optional). You must put your bot token and your account ID
 - proxy ? : yes ✅
 - Supports all devices ✅
 -----------------------
@@ -16,12 +17,12 @@ Tool features :
 install in kali linux :
 <!--START_SECTION:waka-->
 ```
-sudo git clone https://github.com/vv1ck/checker-email-tiktok
+sudo git clone https://github.com/vv1ck/Snapchat-Checker
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-cd checker-email-tiktok
+cd Snapchat-Checker
 ```
 <!--END_SECTION:waka-->
 -----------------------
@@ -34,14 +35,13 @@ pip install requests
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 CHECKER_EMAILS_TIKTOK.py
+python3 SnapChek.py
 ```
 <!--END_SECTION:waka-->
 ---------------------
 
 How to use :
-- 1 -  Create an email.txt file and put the emails inside it, and also create a proxy.txt file and put the proxies inside it
-- 2 - Now run the tool, it will ask you to enter the name of the emails file, then enter the name of the proxy file, enter their names, then the tool will work without problems
+- 1 -  You have to put the proxy file in the same folder of the tool
 
 ---------------------
 By JOKER | <a class="" href="https://www.instagram.com/221298">Instagram ☠️</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
